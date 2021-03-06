@@ -1,0 +1,3 @@
+[submodule "laravel-practice"]
+	path = laravel-practice
+	url = git@github.com:1x481n/laravel-practice.git
